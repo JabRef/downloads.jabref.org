@@ -2,6 +2,11 @@
 title: Repository information for downloads.jabref.org
 ---
 
+> *This repository for our website has been archived*
+> The new implementation for <https://downloads.jabref.org> is done at <https://github.com/JabRef/JabRefOnline>.
+>
+> Deep link as of 2023-10-06: <https://github.com/JabRef/JabRefOnline/blob/main/pages/download/%5B%5Bos%5D%5D.vue>
+
 # Page redirection
 
 This page redirects to the current download provider of JabRef.
